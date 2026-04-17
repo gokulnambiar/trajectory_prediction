@@ -81,7 +81,3 @@ trajectory_prediction/
 └── requirements.txt
 ```
 
-## Notes
-
-- The first run may take longer because it downloads the dataset subset and builds the local matplotlib cache.
-- If `data/ngsim_subset.csv` already exists, the downloader reuses it.
