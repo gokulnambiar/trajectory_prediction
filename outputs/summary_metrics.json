@@ -1,0 +1,16 @@
+{
+  "GradientBoosting": {
+    "rmse": 179.8689422607422,
+    "mae": 79.74205017089844,
+    "horizon_1_train_rows": 14848.0,
+    "horizon_3_train_rows": 14848.0,
+    "horizon_5_train_rows": 14848.0
+  },
+  "LSTM": {
+    "rmse": 518.4212646484375,
+    "mae": 303.6302185058594,
+    "horizon_1_final_train_loss": 557746.4001885776,
+    "horizon_3_final_train_loss": 560367.7598329742,
+    "horizon_5_final_train_loss": 571737.8741918104
+  }
+}
